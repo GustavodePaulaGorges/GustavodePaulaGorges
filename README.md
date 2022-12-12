@@ -20,9 +20,10 @@
 
 ><h3>☇ Prefered tool for web design: Figma</h3>
 
-
-
-
-
+<h4>☇I am probably programming listening to this 👇</h4>
 ![Spotifass](https://spotify-recently-played-readme.vercel.app/api?user=98sxfxj2y7k7vzye4qo05kntf)
+
+![PixelArt2](https://g.redditmedia.com/ihldXp5Am7bnNbj6ORiQ1K_fJ3JjmoE1V6xDHqKz3TE.gif?w=1024&fm=mp4&mp4-fragmented=false&s=5b8687135ef312aa04e10bcf82a8b6ee)
+
+
 
