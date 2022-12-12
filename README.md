@@ -1,6 +1,6 @@
 ![MasterHead](https://i.imgur.com/cmQcrT7.png)
 
-<h2>Just a high school student interested in web development and tech stuff in general!</h2>
+<h2>Just a high school student interested in Web development, UI, UX and tech stuff in general!</h2>
 
 ><h3>☇ Currently learning Vue.js and Django, planning on learning React and Electron;</h3>
 ><h3>☇ Bit by bit I'm tryin' to improve, one day maybe I'll be satisfied, but today's not that day 👻</h3>
