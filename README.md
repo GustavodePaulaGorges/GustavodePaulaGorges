@@ -1,5 +1,6 @@
 ![MasterHead](https://i.imgur.com/cmQcrT7.png)
-☇ Ayo! just a high school student interested in web development and tech stuff in general;
+
+<h1>☇ Ayo! just a high school student interested in web development and tech stuff in general;</h1>
 
 ☇ Currently learning Vue.js and Django, planning on learning React and Electron;
 
