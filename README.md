@@ -15,10 +15,10 @@
 
 
 
-><h3>☇ I really like design in general, be it clothing, game or web design, or even pixel art!</h3>
+><h2>☇ I really like design in general, be it clothing, game or web design, or even pixel art!</h2>
 ![PixelArt](https://i.pinimg.com/originals/83/cf/15/83cf152095bdeb24713093606facc72b.gif)
 
-><h3>☇ Prefered tool for web design: Figma</h3>
+><h2>☇ Prefered tool for web design: Figma</h2>
 
 ><h3>☇I am probably programming listening to this 👇</h3>
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=98sxfxj2y7k7vzye4qo05kntf)
