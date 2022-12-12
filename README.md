@@ -12,14 +12,12 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=GustavodePaulaGorges&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="github.com/GustavodePaulaGorges/github-readme-stats">
-  <img float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogorges&layout=compact&bg_color=36454f&text_color=ffffff&title_color=c8dfea" />
-</a>
 
 
-☇ I really like design in general, be it clothing, game or web design, or even pixel art!
 
-☇ Prefered tool for web design: Figma
+<h3>☇ I really like design in general, be it clothing, game or web design, or even pixel art!</h3>
+<h3>☇ Prefered tool for web design: Figma</h3>
+
 
 
 
