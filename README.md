@@ -7,7 +7,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavogorges&show_icons=true&theme=transparent&bg_color=36454f&text_color=ffffff&title_color=c8dfea&custom_title=Meus+Stats!)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=GustavodePaulaGorges)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=GustavodePaulaGorges&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ☇ I really like design in general, be it clothing, game or web design, or even pixel art!
 
