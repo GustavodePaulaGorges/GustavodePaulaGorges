@@ -13,7 +13,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=GustavodePaulaGorges&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="github.com/GustavodePaulaGorges/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogorges&layout=compact&bg_color=36454f&text_color=ffffff&title_color=c8dfea" />
+  <img float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogorges&layout=compact&bg_color=36454f&text_color=ffffff&title_color=c8dfea" />
 </a>
 
 
