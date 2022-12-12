@@ -6,9 +6,9 @@
 ><h2>☇ Bit by bit I'm tryin' to improve, one day maybe I'll be satisfied, but today's not that day 👻</h3>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogorges&layout=compact&bg_color=36454f&text_color=ffffff&title_color=c8dfea)](https://github.com/GustavodePaulaGorges/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavodePaulaGorges&layout=compact&bg_color=36454f&text_color=ffffff&title_color=c8dfea)](https://github.com/GustavodePaulaGorges/github-readme-stats)
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavodePaulaGorges&show_icons=true&theme=radical)
 
 
 
