@@ -1,8 +1,8 @@
 ![MasterHead](https://i.imgur.com/cmQcrT7.png)
 
-<h1>☇ Ayo! just a high school student interested in web development and tech stuff in general;</h1>
+<h1>Just a high school student interested in web development and tech stuff in general!</h1>
 
-☇ Currently learning Vue.js and Django, planning on learning React and Electron;
+<h2>>☇ Currently learning Vue.js and Django, planning on learning React and Electron;</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogorges&layout=compact&bg_color=36454f&text_color=ffffff&title_color=c8dfea)](https://github.com/GustavodePaulaGorges/github-readme-stats)
 
