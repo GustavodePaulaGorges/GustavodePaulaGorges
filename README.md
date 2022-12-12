@@ -10,7 +10,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavodePaulaGorges&show_icons=true&theme=transparent&bg_color=36454f&text_color=ffffff&title_color=c8dfea&custom_title=Meus+Stats!)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavodePaulaGorges)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavodePaulaGorges)](https://github.com/GustavodePaulaGorges/github-readme-stats)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=GustavodePaulaGorges&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
