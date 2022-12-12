@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogorges&layout=compact&bg_color=36454f&text_color=ffffff&title_color=c8dfea)](https://github.com/GustavodePaulaGorges/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavogorges&show_icons=true&theme=transparent&bg_color=36454f&text_color=ffffff&title_color=c8dfea&custom_title=Meus Stats!)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavogorges&show_icons=true&theme=transparent&bg_color=36454f&text_color=ffffff&title_color=c8dfea&custom_title="Meus Stats!")
 
 ☇ I really like design in general, be it clothing, game or web design, or even pixel art!
 
