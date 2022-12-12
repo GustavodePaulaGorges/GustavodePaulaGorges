@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpaperaccess.com/full/775157.gif)](Ayo!)
+[![MasterHead]([https://wallpaperaccess.com/full/775157.gif](https://imgur.com/cmQcrT7)](Ayo!)
 ☇ Ayo! just a high school student interested in web development and tech stuff in general;
 
 ☇ Currently learning Vue.js and Django, planning on learning React and Electron;
