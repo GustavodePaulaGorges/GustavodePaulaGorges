@@ -12,11 +12,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=GustavodePaulaGorges&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/GustavodePaulaGorges/github-readme-stats">
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogorges&layout=compact&bg_color=36454f&text_color=ffffff&title_color=c8dfea)" />
 </a>
 
 
