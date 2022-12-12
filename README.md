@@ -1,8 +1,9 @@
 ![MasterHead](https://i.imgur.com/cmQcrT7.png)
 
-<h1>Just a high school student interested in web development and tech stuff in general!</h1>
+<h2>Just a high school student interested in web development and tech stuff in general!</h2>
 
-><h2>☇ Currently learning Vue.js and Django, planning on learning React and Electron;</h2>
+><h3>☇ Currently learning Vue.js and Django, planning on learning React and Electron;</h3>
+>h3>☇ Bit by bit I'm tryin' to improve, one day maybe I'll be satisfied, but today's not that day 👻</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogorges&layout=compact&bg_color=36454f&text_color=ffffff&title_color=c8dfea)](https://github.com/GustavodePaulaGorges/github-readme-stats)
 
@@ -14,7 +15,6 @@
 
 ☇ Prefered tool for web design: Figma
 
-☇ Bit by bit I'm tryin' to improve, one day maybe I'll be satisfied, but today's not that day 👻
 
 
 ![Spotifass](https://spotify-recently-played-readme.vercel.app/api?user=98sxfxj2y7k7vzye4qo05kntf)
