@@ -15,8 +15,9 @@
 
 
 
-<h3 style="color: red;">☇ I really like design in general, be it clothing, game or web design, or even pixel art!</h3>
+<h3>☇ I really like design in general, be it clothing, game or web design, or even pixel art!</h3>
 <h3>☇ Prefered tool for web design: Figma</h3>
+<span style="color: red;">text</span>
 
 
 
