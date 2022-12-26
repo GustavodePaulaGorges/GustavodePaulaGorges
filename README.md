@@ -5,16 +5,11 @@
 ><h2>☇ Currently learning Vue.js and Django, planning on learning React and Electron;</h3>
 ><h2>☇ Bit by bit I'm tryin' to improve, one day maybe I'll be satisfied, but today's not that day 👻</h3>
 
-[![Top Langs align="center"](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavodePaulaGorges&layout=compact&bg_color=36454f&text_color=ffffff&title_color=c8dfea)](https://github.com/GustavodePaulaGorges/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavodePaulaGorges&layout=compact&bg_color=36454f&text_color=ffffff&title_color=c8dfea)](https://github.com/GustavodePaulaGorges/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavodePaulaGorges&show_icons=true&theme=transparent&bg_color=36454f&text_color=ffffff&title_color=c8dfea&custom_title=My+Github+Stats)
 
-
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=GustavodePaulaGorges&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 
 
 ><h2>☇ I really like design in general, be it clothing, game or web design, or even pixel art!</h2>
@@ -27,8 +22,7 @@
 
 ![PixelArt1](https://external-preview.redd.it/ihldXp5Am7bnNbj6ORiQ1K_fJ3JjmoE1V6xDHqKz3TE.gif?s=47ac657ab75a301a35b0708f4ee33dec0dcea5d7)
 
-
-
-
-
+```
+Sai daqui seu safado!
+```
 
