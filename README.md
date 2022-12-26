@@ -5,6 +5,9 @@
 ><h2>☇ Currently learning Vue.js and Django, planning on learning React and Electron;</h3>
 ><h2>☇ Bit by bit I'm tryin' to improve, one day maybe I'll be satisfied, but today's not that day 👻</h3>
 
+<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.fortune.svg" alt=""></img>
+<img width="900" height="1" alt="">
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavodePaulaGorges&layout=compact&bg_color=36454f&text_color=ffffff&title_color=c8dfea)](https://github.com/GustavodePaulaGorges/github-readme-stats)
 
@@ -27,6 +30,14 @@
 
 ![PixelArt1](https://external-preview.redd.it/ihldXp5Am7bnNbj6ORiQ1K_fJ3JjmoE1V6xDHqKz3TE.gif?s=47ac657ab75a301a35b0708f4ee33dec0dcea5d7)
 
+yaml
+name: Fortune
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.fortune.svg
+  token: NOT_NEEDED
+  base: ""
+  plugin_fortune: yes
 
 
 
