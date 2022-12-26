@@ -5,8 +5,12 @@
 ><h2>☇ Currently learning Vue.js and Django, planning on learning React and Electron;</h3>
 ><h2>☇ Bit by bit I'm tryin' to improve, one day maybe I'll be satisfied, but today's not that day 👻</h3>
 
-<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.fortune.svg" alt=""></img>
-<img width="900" height="1" alt="">
+<table>
+  <tr>
+  <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.fortune.svg" alt=""></img>
+  <img width="900" height="1" alt="">
+  </tr>
+</table>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavodePaulaGorges&layout=compact&bg_color=36454f&text_color=ffffff&title_color=c8dfea)](https://github.com/GustavodePaulaGorges/github-readme-stats)
