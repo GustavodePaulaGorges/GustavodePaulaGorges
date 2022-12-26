@@ -30,7 +30,7 @@
 
 ![PixelArt1](https://external-preview.redd.it/ihldXp5Am7bnNbj6ORiQ1K_fJ3JjmoE1V6xDHqKz3TE.gif?s=47ac657ab75a301a35b0708f4ee33dec0dcea5d7)
 
-yaml
+```yaml
 name: Fortune
 uses: lowlighter/metrics@latest
 with:
@@ -38,6 +38,7 @@ with:
   token: NOT_NEEDED
   base: ""
   plugin_fortune: yes
+```
 
 
 
