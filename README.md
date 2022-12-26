@@ -7,8 +7,9 @@
 
 <table>
   <tr>
-  <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.fortune.svg" alt=""></img>
-  <img width="900" height="1" alt="">
+    <td nowrap="nowrap"><h4><code>plugin_fortune</code></h4></td>
+    <td rowspan="2"><p>Enable fortune plugin</p>
+<img width="900" height="1" alt=""></td>
   </tr>
 </table>
 
