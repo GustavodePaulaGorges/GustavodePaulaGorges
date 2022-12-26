@@ -7,7 +7,7 @@
 
 <table>
   <tr>
-    <td align="center">
+    <td>
       <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.fortune.svg" alt=""></img>
       <img width="900" height="1" alt="">
     </td>
