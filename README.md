@@ -7,7 +7,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=GustavodePaulaGorges&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ><h3>☇I am probably programming listening to this 👇</h3>
-<p align="center">
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=98sxfxj2y7k7vzye4qo05kntf)
-</p>
 
+<a href="(https://spotify-recently-played-readme.vercel.app/api?user=98sxfxj2y7k7vzye4qo05kntf">
+  <img height=500 align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=98sxfxj2y7k7vzye4qo05kntf" />
+</a>
