@@ -11,7 +11,6 @@
 
 ## You can find me at
 * <a color="red" href="https://www.linkedin.com/in/gustavo-de-paula-gorges-422214268/">Linkedin</a>
-* <a href="https://twitter.com/GustavoOdenari1">Twitter</a>
 
 ## Languages :
 [![css](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
