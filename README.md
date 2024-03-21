@@ -3,7 +3,7 @@
 
 * Studied at IFC Araquari 📋
 
-* Currently working at SoftExpert as a Software Developer
+* Currently working at SoftExpert as a Software Developer 💼
 
 * Interested in Art, Design and Coding 🎨 💻
 
