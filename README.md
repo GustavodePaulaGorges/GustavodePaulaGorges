@@ -1,7 +1,9 @@
 ![Header](https://images-ext-2.discordapp.net/external/M_2tP15LKEdeGLz_Q1k-UTl4DkmR3uWAco3DWfqcdRc/https/i.imgur.com/cmQcrT7.png?width=1440&height=496)
 # Welcome to my profile!
 
-* Currently studying at IFC Araquari 📋
+* Studied at IFC Araquari 📋
+
+* Currently working at SoftExpert as a Software Developer
 
 * Interested in Art, Design and Coding 🎨 💻
 
